@@ -1,0 +1,28 @@
+
+
+1 What is software? What is software engineering?
+ANS Software engineering has two parts: software and engineering. Software is a collection of codes, documents, and triggers that does a specific job and fills a specific requirement. Engineering is the development of products using best practices, principles, and methods.
+2 Explain types of software
+ Application Software.
+•	System Software.
+•	Firmware.
+•	Programming Software.
+•	Driver Software.
+•	Freeware.
+•	Shareware.
+•	Open Source Software.
+
+3 What is SDLC? Explain each phase of SDLC
+An SDLC (software development life cycle) is a big-picture breakdown of all the steps involved in software creation (planning, coding, testing, deploying, etc.). Companies define custom SDLCs to create a predictable, iterative framework that guides the team through all major stages of development.
+
+4 What is DFD? Create a DFD diagram on Flipkart
+ data flow diagram (DFD) is a graphical or visual representation using a standardized set of symbols and notations to describe a business's operations through data movement
+
+5 What is Flow chart? Create a flowchart to make addition of two number
+A flowchart is a diagram that depicts a process, system or computer algorithm
+
+6 A flowchart is a diagram that depicts a process, system or computer algorithm
+A flowchart is a diagram depicting a process, a system or a computer algorithm. It is a diagrammatic representation of the solution to a given problem but, more importantly, it provides a breakdown of the essential steps to solving the problem.
+
+ 
+
